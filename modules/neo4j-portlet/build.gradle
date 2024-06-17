@@ -1,0 +1,7 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+
+    compileInclude 'com.liferay.neo4j:neo4j-osgi-driver:1.0.0'
+
+	cssBuilder group: "com.liferay", name: "com.liferay.css.builder", version: "3.1.4"
+}

@@ -1,0 +1,4 @@
+Bundle-Name: neo4j-portlet
+Bundle-SymbolicName: br.com.neo4j
+Bundle-Version: 1.0.0
+Export-Package: br.com.neo4j.constants
