@@ -20,6 +20,13 @@ Liferay [neo4j-osgi-driver](https://repo1.maven.org/maven2/com/liferay/neo4j/neo
 - Neo4j Java Driver 1.4.4 and Neo4j Server 3.3✅
 - Tested on Liferay 7.4 ga112 ✅
 
+## Setup Environment
+Navigate to the **local_env** folder and run the following command:  
+
+```
+docker compose up
+```  
+
 ## Settings
 A configuration was applied to the Neo4j Portlet to be able to insert data from our graphdabase.
 ![](/images/neo4jconfig.png)
